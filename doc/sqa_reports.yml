@@ -1,0 +1,6 @@
+Applications:
+    second_proj:
+        app_types:
+            - second_projApp
+        content_directory: ${ROOT_DIR}/doc/content
+        log_default: WARNING
